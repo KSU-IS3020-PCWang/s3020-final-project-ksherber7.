@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Sarah Herbert
+- GitHub username:ksherber7
+- Project title: Culture to Classroom 
+- Application purpose: Culture to Classroom is a Python application that helps study abroad students document, organize, and review their academic experiences while studying internationally.
 
 ## How to Run the Application
 
